@@ -2,12 +2,6 @@ package mx.datoreal.app.ui
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.filled.List
-import androidx.compose.material.icons.filled.CheckCircle
-import androidx.compose.material.icons.filled.Info
-import androidx.compose.material.icons.filled.PlayArrow
-import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
 import androidx.compose.material3.Scaffold
@@ -20,13 +14,12 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.platform.LocalContext
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.compose.LifecycleEventEffect
 import mx.datoreal.app.measurement.UsageAccess
 
-private data class TabItem(val label: String, val icon: ImageVector)
+private data class TabItem(val label: String)
 
 @Composable
 fun AppRoot() {
@@ -40,10 +33,10 @@ fun AppRoot() {
     }
 
     val tabs = listOf(
-        TabItem("Estado", Icons.Default.Info),
-        TabItem("Apps", Icons.AutoMirrored.Filled.List),
-        TabItem("En vivo", Icons.Default.PlayArrow),
-        TabItem("Prueba", Icons.Default.CheckCircle)
+        TabItem("Estado"),
+        TabItem("Apps"),
+        TabItem("En vivo"),
+        TabItem("Prueba")
     )
 
     Scaffold(
@@ -53,7 +46,8 @@ fun AppRoot() {
                     NavigationBarItem(
                         selected = tab == index,
                         onClick = { tab = index },
-                        icon = { Icon(item.icon, contentDescription = item.label) },
+                        icon = {},
+                        alwaysShowLabel = true,
                         label = { Text(item.label) }
                     )
                 }
