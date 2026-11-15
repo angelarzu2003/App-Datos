@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "actualizado": "2026-11-15",
+  "base_mb": 1024,
+  "aviso": "Las promociones de Telcel cambian. Estos valores son una semilla editable; confirma siempre con tu SMS o Mi Telcel.",
+  "paquetes": [
+    {
+      "id": "asl-10",
+      "nombre": "Paquete Amigo Sin Límite 10",
+      "precio_mxn": 10,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "WHATSAPP_ILIMITADO_OTRAS_POR_CONFIRMAR",
+      "redes_apps": [
+        "WhatsApp"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel"
+    },
+    {
+      "id": "asl-20",
+      "nombre": "Paquete Amigo Sin Límite 20",
+      "precio_mxn": 20,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "WHATSAPP_ILIMITADO_OTRAS_POR_CONFIRMAR",
+      "redes_apps": [
+        "WhatsApp"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel"
+    },
+    {
+      "id": "asl-30",
+      "nombre": "Paquete Amigo Sin Límite 30",
+      "precio_mxn": 30,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "WHATSAPP_ILIMITADO_OTRAS_POR_CONFIRMAR",
+      "redes_apps": [
+        "WhatsApp"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel",
+      "reportado_terceros": {
+        "nav": "160 MB",
+        "dias": "3 o 7"
+      }
+    },
+    {
+      "id": "asl-50",
+      "nombre": "Paquete Amigo Sin Límite 50",
+      "precio_mxn": 50,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "WHATSAPP_ILIMITADO_OTRAS_POR_CONFIRMAR",
+      "redes_apps": [
+        "WhatsApp"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel",
+      "reportado_terceros": {
+        "nav": "500 MB (otra fuente: 1 GB)",
+        "dias": "7 o 30"
+      }
+    },
+    {
+      "id": "asl-80",
+      "nombre": "Paquete Amigo Sin Límite 80",
+      "precio_mxn": 80,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "WHATSAPP_ILIMITADO_OTRAS_POR_CONFIRMAR",
+      "redes_apps": [
+        "WhatsApp"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel"
+    },
+    {
+      "id": "asl-100",
+      "nombre": "Paquete Amigo Sin Límite 100",
+      "precio_mxn": 100,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "ILIMITADO",
+      "redes_apps": [
+        "WhatsApp",
+        "Facebook",
+        "Messenger",
+        "X",
+        "Instagram",
+        "Snapchat"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel",
+      "reportado_terceros": {
+        "nav": "1.5 GB",
+        "dias": "15 o 30"
+      }
+    },
+    {
+      "id": "asl-150",
+      "nombre": "Paquete Amigo Sin Límite 150",
+      "precio_mxn": 150,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "ILIMITADO",
+      "redes_apps": [
+        "WhatsApp",
+        "Facebook",
+        "Messenger",
+        "X",
+        "Instagram",
+        "Snapchat"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel",
+      "reportado_terceros": {
+        "nav": "2.5 GB",
+        "dias": "30"
+      }
+    },
+    {
+      "id": "asl-200",
+      "nombre": "Paquete Amigo Sin Límite 200",
+      "precio_mxn": 200,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "ILIMITADO",
+      "redes_apps": [
+        "WhatsApp",
+        "Facebook",
+        "Messenger",
+        "X",
+        "Instagram",
+        "Snapchat"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel",
+      "reportado_terceros": {
+        "nav": "3.5 GB",
+        "dias": "30"
+      }
+    },
+    {
+      "id": "asl-270",
+      "nombre": "Paquete Amigo Sin Límite 270",
+      "precio_mxn": 270,
+      "nav_mb": 2560,
+      "vigencia_dias": 30,
+      "redes_modo": "ILIMITADO",
+      "redes_apps": [
+        "WhatsApp",
+        "Facebook",
+        "Messenger",
+        "X",
+        "Instagram",
+        "Snapchat"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": true,
+      "fuente": "IFT, registro del Paquete Amigo Sin Límite 270 (sep 2025)",
+      "nota": "Dato oficial; las promociones pueden sumar más MB"
+    },
+    {
+      "id": "asl-300",
+      "nombre": "Paquete Amigo Sin Límite 300",
+      "precio_mxn": 300,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "ILIMITADO",
+      "redes_apps": [
+        "WhatsApp",
+        "Facebook",
+        "Messenger",
+        "X",
+        "Instagram",
+        "Snapchat"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel",
+      "reportado_terceros": {
+        "nav": "5.5 GB",
+        "dias": "30 o 60"
+      }
+    },
+    {
+      "id": "asl-400",
+      "nombre": "Paquete Amigo Sin Límite 400",
+      "precio_mxn": 400,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "ILIMITADO",
+      "redes_apps": [
+        "WhatsApp",
+        "Facebook",
+        "Messenger",
+        "X",
+        "Instagram",
+        "Snapchat"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel"
+    },
+    {
+      "id": "asl-500",
+      "nombre": "Paquete Amigo Sin Límite 500",
+      "precio_mxn": 500,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "ILIMITADO",
+      "redes_apps": [
+        "WhatsApp",
+        "Facebook",
+        "Messenger",
+        "X",
+        "Instagram",
+        "Snapchat"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel",
+      "reportado_terceros": {
+        "nav": "8 GB",
+        "dias": "60"
+      }
+    },
+    {
+      "id": "asl-1200",
+      "nombre": "ASL 6 meses ($1,200)",
+      "precio_mxn": 1200,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "ILIMITADO",
+      "redes_apps": [
+        "WhatsApp",
+        "Facebook",
+        "Messenger",
+        "X",
+        "Instagram",
+        "Snapchat"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel",
+      "reportado_terceros": {
+        "nav": "7 GB cada 30 días",
+        "dias": "180"
+      }
+    },
+    {
+      "id": "asl-2400",
+      "nombre": "ASL 12 meses ($2,400)",
+      "precio_mxn": 2400,
+      "nav_mb": null,
+      "vigencia_dias": null,
+      "redes_modo": "ILIMITADO",
+      "redes_apps": [
+        "WhatsApp",
+        "Facebook",
+        "Messenger",
+        "X",
+        "Instagram",
+        "Snapchat"
+      ],
+      "redes_alcance": "WhatsApp: MX/EE.UU./Canadá. Otras: solo México y funciones incluidas",
+      "verificado": false,
+      "fuente": null,
+      "nota": "MB y vigencia por confirmar con el SMS o Mi Telcel",
+      "reportado_terceros": {
+        "nav": "7 GB cada 30 días",
+        "dias": "365"
+      }
+    }
+  ]
+}

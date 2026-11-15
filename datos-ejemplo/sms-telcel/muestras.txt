@@ -1,0 +1,5 @@
+# Pega aquí los SMS de Telcel (uno por bloque, con una línea en blanco entre ellos)
+# Remitente: 
+# Fecha y hora aproximada:
+# Texto:
+
